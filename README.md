@@ -1,0 +1,1 @@
+# Patika_SQL_Odev_Tekrar
