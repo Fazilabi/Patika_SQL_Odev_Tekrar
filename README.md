@@ -4,7 +4,7 @@
 ### 1. film tablosundan 'K' karakteri ile başlayan en uzun ve replacemet_cost u en düşük 3 filmi sıralayınız.
 `SELECT title,length,  replacement_cost FROM film`<br>
 `WHERE title LIKE 'K%'`<br>
-`ORDER BY length desc ,  replacement_cost ASC`<br>
+`ORDER BY length DESC ,  replacement_cost ASC`<br>
 `LIMIT 3`
 
  
